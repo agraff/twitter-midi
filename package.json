@@ -1,0 +1,12 @@
+{
+  "name": "http-listener",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "robotjs": "^0.4.2"
+  },
+  "devDependencies": {},
+  "repository": "github",
+  "author": "",
+  "license": "ISC"
+}
